@@ -1,6 +1,6 @@
 Olá, Eu sou Diego! <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diihsoares10&size_weight=0.5&count_weight=0.5)](https://github.com/Diihsoares10/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Diihsoares10&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Diihsoares10&show_icons=true&theme=transparent)](https://github.com/Diihsoares10/github-readme-stats)
 
 
 <div style="display: inline_block"><br>
