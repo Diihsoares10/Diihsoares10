@@ -1,5 +1,7 @@
 Olá, Eu sou Diego! <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diihsoares10&layout=pie)](https://github.com/Diihsoares10/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diihsoares10&size_weight=0.5&count_weight=0.5)](https://github.com/Diihsoares10/github-readme-stats)
+
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Diih-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Diih-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
