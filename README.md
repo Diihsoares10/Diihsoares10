@@ -1,4 +1,4 @@
-Olá, Eu sou Diego!
+Olá, Eu sou Diego! <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diihsoares10&layout=pie)](https://github.com/Diihsoares10/github-readme-stats)
 <div style="display: inline_block"><br>
   <img align="center" alt="Diih-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
