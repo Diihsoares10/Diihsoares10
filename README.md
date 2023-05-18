@@ -26,6 +26,6 @@ Olá, Eu sou Diego! <br>
 </div>
 
 - 🔭 Buscando a primeira Oportunidade
-- 🌱 Estou estudando Typescript, React.
+- 🌱 Estou estudando Javascript,PHP e React.
 - 📫 Contate-me: md.diego@hotmail.com
 - 😄 Pronouns: Ele/Dele
