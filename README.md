@@ -22,8 +22,10 @@ Olá, Eu sou Diego! <br>
   <a href="https://instagram.com/diih.soares10/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href= "https://www.linkedin.com/in/diego-soares-dos-santos-4251b9244/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-  https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>
-  
+[ https://img.shields.io/badge/<md.diego@hotmail.com>-<EMAIL>-<blue>](https://img.shields.io/endpoint?url=...&style="schemaVersion": 1,
+  "label": "hello",
+  "message": "sweet world",
+  "color": "orange)}
 </div>
 
 - 🔭 Buscando a primeira Oportunidade
