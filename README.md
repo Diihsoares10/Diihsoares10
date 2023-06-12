@@ -28,7 +28,7 @@ Olá, Eu sou Diego! <br>
 
 </div>
 
-- 🔭 Buscando oportunidades Desenvolvedor Jr. 
+- 🔭 Buscando oportunidades Desenvolvedor Jr.
 - 🌱 Estou estudando Javascript,PHP e React. 
 - 📫 Contate-me: md.diego@hotmail.com
 - 😄 Pronouns: Ele/Dele
