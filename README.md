@@ -1,4 +1,4 @@
-Olá, Eu sou Diego!<br>
+Hi, I am Diego!<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diihsoares10&size_weight=0.5&count_weight=0.5&theme=dracula)](https://github.com/Diihsoares10/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Diihsoares10&show_icons=true&theme=dracula)
