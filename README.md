@@ -1,6 +1,6 @@
 Hi, I am Diego!<br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diihsoares)](https://github.com/Diihsoares/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diihsoares10)](https://github.com/Diihsoares10/github-readme-stats)
 
 
 <div style="display: inline_block"><br>
