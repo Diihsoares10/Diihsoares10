@@ -1,7 +1,7 @@
 Hi, I am Diego!<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diihsoares10)](https://github.com/Diihsoares10/github-readme-stats)
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/Diihsoares10/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Diihsoares10ffflabs)](https://github.com/Diihsoares10/github-readme-stats)
 
 
 <div style="display: inline_block"><br>
