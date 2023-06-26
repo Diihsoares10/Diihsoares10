@@ -1,12 +1,6 @@
 Hi, I am Diego!<br>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Diihsoares&theme=dracula" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Diihsoares&layout=compact&langs_count=8&card_width=320&theme=dracula" />
-</a>
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diihsoaresa&layout=compact)
 
 
 <div style="display: inline_block"><br>
