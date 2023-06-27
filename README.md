@@ -1,9 +1,11 @@
 Hi, I am Diego!<br>
-<a href="https://github.com/Diihsoares10/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Diihsoares10&show_icons=true&bg_color=00000000" />
-</a>
+
 <a href="https://github.com/Diihsoares10/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Diihsoares10&show_icons=true&bg_color=00000000&layout=compact&langs_count=8&card_width=320" />
+</a>
+
+<a href="https://github.com/Diihsoares10/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Diihsoares10&show_icons=true&bg_color=00000000" />
 </a>
 
 
