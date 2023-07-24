@@ -31,7 +31,7 @@ Hi, I am Diego!<br>
 
 </div>
 
-- 🔭 Buscando oportunidades Desenvolvedor Jr.
-- 🌱 Estou estudando Javascript,PHP e React. 
+- 🔭 Desenvolvedor Jr.
+- 🌱 Estou estudando Python, Flask e Selenium. 
 - 📫 Contate-me: md.diego@hotmail.com
 - 😄 Pronouns: Ele/Dele
