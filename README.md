@@ -34,7 +34,7 @@ Hi, I am Diego!<br>
 
 </div>
 
-- 🔭 Desenvolvedor Jr.
-- 🌱 Estou estudando Python e Angular. 
-- 📫 Contate-me: md.diego@hotmail.com
-- 😄 Pronouns: Ele/Dele
+ 🔭 Desenvolvedor Jr.
+🌱 Estou estudando Python e Angular. 
+📫 Contate-me: md.diego@hotmail.com
+😄 Pronouns: Ele/Dele
