@@ -1,11 +1,6 @@
 Hi, I am Diego!<br>
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Diihsoares10&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=Diihsoares10&show_icons=true&theme=radical&layout=compact" />
- </div>
- 
- &nbsp;
- &nbsp;
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Diihsoares10&show_icons=true&theme=radical)
 
 
 
