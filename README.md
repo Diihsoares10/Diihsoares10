@@ -1,8 +1,7 @@
 Hi, I am Diego!<br>
 <div  align="center" style="margin-bottom:100px">
 <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=kyronsatt&show_icons=true&theme=dark&layout=compact" />
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Diihsoares10&show_icons=true&theme=dark)
-</div>
+<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=kyronsatt&show_icons=true&theme=dark&layout=compact" />
 
 
 
