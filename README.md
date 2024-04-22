@@ -1,9 +1,7 @@
 Hi, I am Diego!<br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Diihsoares10&show_icons=true&theme=dark)
-![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=Diihsoares10&show_icons=true&theme=dark](https://github-readme-stats.vercel.app/api/top-langs/?username=Diihsoares10&langs_count=10&hide=scss&show_icons=true&theme=dark
-))
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diihsoares10&show_icons=true&theme=dark)
 
 
 
