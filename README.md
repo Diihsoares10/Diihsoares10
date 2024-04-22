@@ -11,6 +11,7 @@ Hi, I am Diego!<br>
 
 
 <div style="display: inline_block"><br>
+
 #### Principal:
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
@@ -30,7 +31,8 @@ Hi, I am Diego!<br>
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
 
 </div>
- 
+
+#### Contatos:
 <div> 
   <a href="https://instagram.com/diih.soares10/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href= "https://www.linkedin.com/in/diego-soares-dos-santos-4251b9244/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
