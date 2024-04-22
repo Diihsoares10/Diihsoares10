@@ -38,3 +38,4 @@ Hi, I am Diego!<br>
 🌱 Estou estudando Python e Angular. 
 📫 Contate-me: md.diego@hotmail.com
 😄 Pronouns: Ele/Dele
+ </div>
