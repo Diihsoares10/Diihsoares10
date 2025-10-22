@@ -33,7 +33,7 @@
 
 ---
 
-🔭 **Desenvolvedor Jr.** | 💻 Focado em Backend com **Python & Flask** <br>  
+🔭 **Desenvolvedor ** | 💻 Focado em Backend com **Python & Flask** <br>  
 🌱 Atualmente estudando **Python Avançado** e **Angular** <br>  
 😄 Pronomes: Ele/Dele  
 
